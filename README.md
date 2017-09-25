@@ -1,6 +1,6 @@
 # primo-explore-login-backgrounds
 
-<!-- ![Build Status](https://api.travis-ci.org/Alliance-PCJWG/primo-explore-clickable-logo.svg?branch=master) -->
+![Build Status](https://api.travis-ci.org/Alliance-PCJWG/primo-explore-login-backgrounds.svg)
 
 ## Features
 Full-screen background images appear on the standalone login page when a user navigates to `/primo-explore/login`. Images can be included with the view package in a `login` subfolder and enumerated in a config option. A new image is randomly chosen from the configured options each time the page is visited.
