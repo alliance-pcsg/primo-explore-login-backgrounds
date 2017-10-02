@@ -1,6 +1,7 @@
 # primo-explore-login-backgrounds
 
-![Build Status](https://api.travis-ci.org/Alliance-PCJWG/primo-explore-login-backgrounds.svg)
+![Build Status](https://api.travis-ci.org/alliance-pcsg/primo-explore-login-backgrounds.svg)
+[![npm](https://img.shields.io/npm/v/primo-explore-login-backgrounds.svg)](https://www.npmjs.com/package/primo-explore-login-backgrounds)
 
 ## Features
 Full-screen background images appear on the standalone login page when a user navigates to `/primo-explore/login`. Images can be included with the view package in a `login` subfolder and enumerated in a config option. A new image is randomly chosen from the configured options each time the page is visited.
@@ -48,7 +49,7 @@ app.constant('loginImages', [
 ])
 ```
 
-<!-- ## Running tests
+## Running tests
 1. Clone the repo
 2. Run `npm install`
-3. Run `npm test` -->
+3. Run `npm test`
