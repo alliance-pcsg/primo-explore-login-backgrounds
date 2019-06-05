@@ -1,6 +1,6 @@
 {
   "name": "@orbis-cascade/primo-explore-login-backgrounds",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Adds rotating background images to primo's standalone login screen.",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,5 @@
     "url": "https://github.com/alliance-pcsg/primo-explore-login-backgrounds/issues"
   },
   "homepage": "https://github.com/alliance-pcsg/primo-explore-login-backgrounds#readme",
-  "scripts": {
-  }
+  "scripts": {}
 }
