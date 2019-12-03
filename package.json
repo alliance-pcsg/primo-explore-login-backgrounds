@@ -1,5 +1,8 @@
 {
   "name": "@orbis-cascade/primo-explore-login-backgrounds",
+"dependencies": {
+  "angular": ">=1.7.9"
+},
   "version": "1.0.1",
   "description": "Adds rotating background images to primo's standalone login screen.",
   "main": "index.js",
